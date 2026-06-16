@@ -1,4 +1,4 @@
-# ML PathFinder ⭐
+# ML PathFinder 
 
 ML PathFinder is a simple web application that generates personalized Machine Learning learning roadmaps based on a user's interests and skill level.
 
